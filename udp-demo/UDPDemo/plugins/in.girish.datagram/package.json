@@ -1,0 +1,14 @@
+{
+    "version": "0.1.0",
+    "name": "in.girish.datagram",
+    "cordova_name": "UDP Plugin",
+    "description": "UDP Plugin which supports node.js dgram API",
+    "license": "MIT",
+    "keywords": [
+        "UDP",
+        " Multicast",
+        " Datagram",
+        " dgram"
+    ],
+    "engines": []
+}
